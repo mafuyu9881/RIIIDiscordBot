@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RIIIDiscordBot\\RIIIDiscordBot.csproj": {}
+    "f:\\RIIIDiscordBot\\RIIIDiscordBot.csproj": {}
   },
   "projects": {
-    "F:\\RIIIDiscordBot\\RIIIDiscordBot.csproj": {
+    "f:\\RIIIDiscordBot\\RIIIDiscordBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RIIIDiscordBot\\RIIIDiscordBot.csproj",
+        "projectUniqueName": "f:\\RIIIDiscordBot\\RIIIDiscordBot.csproj",
         "projectName": "RIIIDiscordBot",
-        "projectPath": "F:\\RIIIDiscordBot\\RIIIDiscordBot.csproj",
+        "projectPath": "f:\\RIIIDiscordBot\\RIIIDiscordBot.csproj",
         "packagesPath": "C:\\Users\\oddone\\.nuget\\packages\\",
-        "outputPath": "F:\\RIIIDiscordBot\\obj\\",
+        "outputPath": "f:\\RIIIDiscordBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oddone\\AppData\\Roaming\\NuGet\\NuGet.Config"
